@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale =1.0" />
+    <meta  http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Game Tic-Tac-Toe</title>
+    <link rel="style.css C:\Users\GGGYYYYY\Desktop\Folder 2\style.css" href="./css/style.css" />
+</head>
+<body>
+    <div class="wrapper">
+      <div class="left">
+        <div class="title">
+          <h1>Kholik05</h1>
+          <H1>Let's Play</H1>
+          <h1>the Tic-tac-toe Game!</h1>
+        </div>
+        <div class="restart">
+            <button>Star a New Game</button>
+            <button><h5 class="text-center animated fadeInUp" style="color:white">Made with <span style="color:blue">&hearts;</span> by <a href="https://g.co/kgs/D9t3eL" target="_blank" style="color:blue">GAME</a></h5></button>
+            <html>
+                <head>
+                  <title</title>
+                </head>
+                <body>
+                  <p style="word-spacing: 1em;"></p>
+                </body>
+              </html>
+             
